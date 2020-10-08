@@ -9,3 +9,4 @@ while type:
         break
 print(getTempNumber, " градусов Цельсия =  ", round((getTempNumber * 1.8) + 32, 3)," градусов Фаренгейт.")
 btwn = input("Для продолжения нажмите Enter!")
+print('Hello')
